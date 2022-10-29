@@ -1,0 +1,25 @@
+{
+  "name": "10b",
+  "version": "1.0.0",
+  "description": "* s3840848 - Aaron Cartledge\r * s3778909 - Baiwei Liu\r * s3622097 - Haizhou Cheng\r * s3637291 - Wenjie Chen\r * s3690691 - Wenlao Peng\r * s3752182 - Yiyang Xiang\r * s3751476 - Yuxiang Huang",
+  "main": "main.test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3840848rmit/10B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3840848rmit/10B/issues"
+  },
+  "homepage": "https://github.com/s3840848rmit/10B#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
